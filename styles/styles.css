@@ -290,7 +290,8 @@ body {
   position: fixed;
   right: 0;
   top: 0;
-  background-color: #fefefe;
+  background-color: #FE8C66;
+  color: white;
   margin: 0;
   padding: 20px;
   border: 1px solid #888;
@@ -306,7 +307,7 @@ body {
 }
 
 .modal-cart-close {
-  color: #aaa;
+  color: white;
   float: right;
   font-size: 28px;
   font-weight: bold;
